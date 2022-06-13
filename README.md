@@ -1,1 +1,1 @@
-# applePayDemo
+# Apple Pay Demo
